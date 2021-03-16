@@ -269,5 +269,6 @@
 	<panelbox>박스아트 패널</panelbox>
 <!-- pending translation -->
 	<ecwolf>ECWolf는 Wolf4SDL 코드 베이스를 기반으로 하는 Wolfenstein 3D, Spear of Destiny 및 Super 3D Noah 's Ark의 고급 소스 포트입니다.</ecwolf>
+	<outrun>Outrun은 Sega가 1986년 9월에 출시한 아케이드 레이싱 비디오 게임입니다. 개선된 하드웨어와 그래픽, 비선형 게임 플레이 그리고 Hiroshi Kawaguchi가 작곡한 음악이 포함된 선택 가능한 사운드 트랙으로 유명합니다. 목표는 교통 체증을 피하고 5개 목적지 중 하나에 도달하는 것입니다.</outrun>
     </variables>
 </theme>
