@@ -5,6 +5,31 @@
     <variables>
 		
     	<langue>ko</langue>
+
+
+<!-- FONTS -->
+
+<!-- main system views -->
+<font1s>NanumGothicExtraBold</font1s>
+
+<!-- system info -->
+<font2s>NanumGothicExtraBold</font2s>
+
+<!-- System description -->
+<font3s>NanumGothic</font3s>
+
+<!-- Font used by gamelist items -->
+<font1g>NanumGothicBold</font1g>
+
+<!-- Font used by descriptions on gamelists -->
+<font2g>NanumGothic</font2g>
+
+<!-- Font used for title on gamelist panel -->
+<font3g>NanumBarunpenB</font3g>
+
+<!-- Font used on gamelist help system -->
+<font4g>NanumGothicBold</font4g>
+
 <!-- Global --> 	
         <yes>Yes</yes>
         <no>No</no>

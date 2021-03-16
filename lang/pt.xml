@@ -5,6 +5,30 @@
 	<variables>
 		
 		<langue>pt</langue>
+
+<!-- FONTS -->
+
+<!-- main system views -->
+<font1s>OpenSans-Bold</font1s>
+
+<!-- system info -->
+<font2s>OpenSans-Bold</font2s>
+
+<!-- System description -->
+<font3s>OpenSans-Semi-Bold.ttf</font3s>
+
+<!-- Font used by gamelist items -->
+<font1g>OpenSans-Semibold</font1g>
+
+<!-- Font used by descriptions on gamelists -->
+<font2g>Homizio</font2g>
+
+<!-- Font used for title on gamelist panel -->
+<font3g>BebasNeue-Regular</font3g>
+
+
+<!-- Font used on gamelist help system -->
+<font4g>OpenSans-Semibold</font4g>
 		
 <!-- Global -->
     <yes>Sim </yes>
@@ -243,6 +267,6 @@
 	<panel>Painel</panel>
 	<smallpanel>Painel pequeno</smallpanel>
 	<panelbox>Painel com Boxart</panelbox>
-	
+<ecwolf>ECWolf é uma porta de origem avançada para Wolfenstein 3D, Spear of Destiny e Super 3D Noah's Ark baseado no código-base Wolf4SDL.</ecwolf>	
 	</variables>	
 </theme>
