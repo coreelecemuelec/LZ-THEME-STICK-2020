@@ -48,7 +48,7 @@ github:			https://github.com/dm2912
          <selectorGradientType>${cgradienttype}</selectorGradientType>
        </menuText>
       <menuTextSmall name="menutextsmall">
-         <fontPath>./fonts/OpenSans-Semibold.ttf</fontPath>
+         <fontPath>./fonts/NanumGothicBold.ttf</fontPath>
          <fontSize>0.03</fontSize>
          <color>${cmenusubtitle}</color>
       </menuTextSmall>

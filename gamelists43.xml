@@ -112,6 +112,7 @@
       <pos>0.44 0.06</pos>
       <fontPath>./fonts/NanumGothicBold.ttf</fontPath>
       <fontSize>0.024</fontSize>
+      <size>0.20 0.024</size>
       <color>${cgldetail}</color>
     </datetime>
     <image name="developer_logo" extra="true">
