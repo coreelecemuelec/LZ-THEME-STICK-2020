@@ -109,7 +109,7 @@
       <color>${cglicons}</color>
     </image>
     <datetime name="md_releasedate">
-      <pos>0.44 0.07</pos>
+      <pos>0.44 0.08</pos>
       <fontPath>./fonts/NanumGothicBold.ttf</fontPath>
       <fontSize>0.024</fontSize>
       <size>0.20 0.024</size>
@@ -122,7 +122,7 @@
       <color>${cglicons}</color>
     </image>
     <text name="md_developer">
-      <pos>0.44 0.13</pos>
+      <pos>0.44 0.14</pos>
       <fontPath>./fonts/NanumGothicBold.ttf</fontPath>
       <fontSize>0.024</fontSize>
       <size>0.20 0.024</size>
@@ -135,7 +135,7 @@
       <color>${cglicons}</color>
     </image>
     <text name="md_publisher">
-      <pos>0.44 0.19</pos>
+      <pos>0.44 0.20</pos>
       <fontPath>./fonts/NanumGothicBold.ttf</fontPath>
       <fontSize>0.024</fontSize>
       <size>0.20 0.024</size>
@@ -148,7 +148,7 @@
       <color>${cglicons}</color>
     </image>
     <text name="md_genre">
-      <pos>0.44 0.25</pos>
+      <pos>0.44 0.26</pos>
       <fontPath>./fonts/NanumGothicBold.ttf</fontPath>
       <fontSize>0.024</fontSize>
       <size>0.20 0.024</size>
@@ -161,7 +161,7 @@
       <color>${cglicons}</color>
     </image>
     <text name="md_players">
-      <pos>0.44 0.31</pos>
+      <pos>0.44 0.32</pos>
       <fontPath>./fonts/NanumGothicBold.ttf</fontPath>
       <fontSize>0.024</fontSize>
       <size>0.20 0.024</size>
