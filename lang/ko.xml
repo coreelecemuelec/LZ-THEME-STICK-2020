@@ -267,8 +267,9 @@
 	<panel>패널</panel>
 	<smallpanel>작은 패널</smallpanel>
 	<panelbox>박스아트 패널</panelbox>
-<!-- pending translation -->
 	<ecwolf>ECWolf는 Wolf4SDL 코드 베이스를 기반으로 하는 Wolfenstein 3D, Spear of Destiny 및 Super 3D Noah 's Ark의 고급 소스 포트입니다.</ecwolf>
+<!-- pending translation -->
 	<outrun>Outrun은 Sega가 1986년 9월에 출시한 아케이드 레이싱 비디오 게임입니다. 개선된 하드웨어와 그래픽, 비선형 게임 플레이 그리고 Hiroshi Kawaguchi가 작곡한 음악이 포함된 선택 가능한 사운드 트랙으로 유명합니다. 목표는 교통 체증을 피하고 5개 목적지 중 하나에 도달하는 것입니다.</outrun>
+	<gx4000>GX4000은 Amstrad에서 제조한 비디오 게임 콘솔입니다. 게임 콘솔 시장에 진출하기 위한 회사의 단기간 시도였습니다. 콘솔은 1990년 유럽에서 출시되었으며 당시 여전히 인기있는 CPC 기술을 기반으로한 업그레이드된 디자인 이었습니다.</gx4000>
     </variables>
 </theme>

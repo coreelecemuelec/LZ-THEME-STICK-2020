@@ -37,7 +37,7 @@
 
 	   <text name="logoText">
          <color>${cgtbgedgeselect}</color>
-        <fontPath>./fonts/NanumBarunpenB.ttf</fontPath>
+        <fontPath>./fonts/${font1s}.ttf</fontPath>
 		 <fontSize>0.05</fontSize>
          <alignment>center</alignment>
       </text>
