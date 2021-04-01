@@ -9,26 +9,32 @@
 
 <!-- FONTS -->
 
+<!-- menu fonts -->
+<font1m>NanumGothicLight.ttf</font1m>
+
+
+<font2m>NanumGothicBold.ttf</font2m>
+
 <!-- main system views -->
-<font1s>NanumGothicExtraBold</font1s>
+<font1s>NanumGothicExtraBold.ttf</font1s>
 
 <!-- system info -->
-<font2s>NanumGothicExtraBold</font2s>
+<font2s>NanumGothicExtraBold.ttf</font2s>
 
 <!-- System description -->
-<font3s>NanumGothic</font3s>
+<font3s>NanumGothic.ttf</font3s>
 
 <!-- Font used by gamelist items -->
-<font1g>NanumGothicBold</font1g>
+<font1g>NanumGothicBold.ttf</font1g>
 
 <!-- Font used by descriptions on gamelists -->
-<font2g>NanumGothic</font2g>
+<font2g>NanumGothic.ttf</font2g>
 
 <!-- Font used for title on gamelist panel -->
-<font3g>NanumBarunpenB</font3g>
+<font3g>NanumGothicExtraBold.ttf</font3g>
 
 <!-- Font used on gamelist help system -->
-<font4g>NanumGothicBold</font4g>
+<font4g>NanumGothicBold.ttf</font4g>
 
 <!-- Global --> 	
         <yes>Yes</yes>
