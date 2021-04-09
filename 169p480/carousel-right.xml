@@ -7,7 +7,7 @@
 <view name="system">
      <carousel name="systemcarousel">
 			<type>vertical</type>
-			<pos>0.570 -0.0</pos>
+			<pos>0.660 -0.0</pos>
     <logoAlignment>center</logoAlignment>
 			<size>0.32 1</size>
 			<logoScale>1.5</logoScale>
@@ -23,28 +23,30 @@
 <image name="logo">
 	</image>
  
-    <text name="systemInfo">
-         <pos>0 0.45</pos>
-		<size>.5 0</size>
-         <alignment>right</alignment>
-       <fontSize>0.07</fontSize>
+ <text name="systemInfo">
+         <pos>0.05 0.820</pos>
+         <backgroundColor>00000000</backgroundColor>
+         <color>${cinfotext}</color>
+          <size>0.30 0</size>
+         <alignment>left</alignment>
+         <fontPath>./fonts/${font1s}</fontPath>
+         <fontSize>0.07</fontSize>
    </text>
 
-	<text name="description" extra="true">
+	  	<text name="description" extra="true">
 	<visible>false</visible>
 		</text>
 
   <text name="shortdescription" extra="true">
 	<visible>false</visible>
 		</text>
-	  
 
    <helpsystem name="help">
          <pos>0.007 0.965</pos>      
    </helpsystem>
 
 <image name="background" extra="true">
-       <path>./assets/filters/${themecolor}/crt-right.svg</path>
+       <path>./assets/filters/${themecolor}/bg-system-right43.svg</path>
       </image>
 	   <text name="logoText">
          <color>${cgtbgedgeselect}</color>

@@ -22,9 +22,9 @@
      <pos>.0 0.32</pos>
       <size>1 1</size>
       <color>ffffff00</color>
-      <logoScale>1.0</logoScale>
-      <logoSize>0.25 .5</logoSize>
-      <maxLogoCount>3</maxLogoCount>
+      <logoScale>1.15</logoScale>
+      <logoSize>0.18 .3</logoSize>
+      <maxLogoCount>5</maxLogoCount>
     <logoAlignment>right</logoAlignment>
       <defaultTransition>instant</defaultTransition>	
     </carousel>
@@ -66,31 +66,31 @@
 		</text>
 
    <text name="systemInfo">
-         <pos>0.250 0.075</pos>
+         <pos>0.600 0.530</pos>
          <backgroundColor>00000000</backgroundColor>
          <color>${cinfotext}</color>
-        <size>0.7 0.00</size>
+        <size>0.335 0.00</size>
          <alignment>right</alignment>
          <fontPath>./fonts/${font1s}</fontPath>
-         <fontSize>0.070</fontSize>
+         <fontSize>0.075</fontSize>
          <glowColor>${ctextglow}</glowColor>
          <glowSize>0</glowSize>
    </text>
 
 	<image name="console" extra="true">
 		<path>./assets/logos/color_logo/${system.theme}.svg</path>
-        <pos>0.025 0.075</pos>
-         <maxSize>0.28 0.25</maxSize>
+        <pos>0.045 0.075</pos>
+         <maxSize>0.25 0.20</maxSize>
         <alignment>left</alignment>
       </image> 
 
 <text name="description" extra="true">
            <fontPath>./fonts/${font3s}</fontPath>
-			<pos>.028 0.28</pos>
-            <size>0.90 0</size>
+			<pos>.04 0.28</pos>
+            <size>0.68 0</size>
 			<alignment>left</alignment>
 			<color>${cdescriptiontext}</color>
-			<fontSize>0.037</fontSize>
+			<fontSize>0.035</fontSize>
         <glowColor>${ctextglow}</glowColor>
          <glowSize>0</glowSize>
 		</text>

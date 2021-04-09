@@ -58,7 +58,7 @@
             <size>0.90 0</size>
 			<alignment>center</alignment>
 			<color>${cdescriptiontext}</color>
-			<fontSize>0.028</fontSize>
+			<fontSize>0.033</fontSize>
         <glowColor>${ctextglow}</glowColor>
          <glowSize>1</glowSize>
 		</text>
