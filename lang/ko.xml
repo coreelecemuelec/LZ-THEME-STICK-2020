@@ -6,13 +6,12 @@
 		
     	<langue>ko</langue>
 
-
 <!-- FONTS -->
 
 <!-- menu fonts -->
 <font1m>NanumGothicLight.ttf</font1m>
 
-
+<!-- menu fonts -->
 <font2m>NanumGothicBold.ttf</font2m>
 
 <!-- main system views -->
@@ -78,10 +77,10 @@
         <idefault>Crystal</idefault>
         <idefaultrev>Crystal (Reverse)</idefaultrev>
 <!-- System layouts -->		
-        <horizontal>Basic Horizontal Menu</horizontal>
+        <horizontal>Simple Horizontal Menu</horizontal>
         <hordetail>Detailed (Horizonta)</hordetail>
-        <rhc>Right Side Carousel</rhc>
-        <lhc>Left Side Carousel</lhc>
+        <rhc>Carousel (Right Sided)</rhc>
+        <lhc>Carousel (Left Sided)</lhc>
         <systemdetails>Detailed (Vertical)</systemdetails>
 <!-- Video delay -->
         <delay1>1 second</delay1>
@@ -98,13 +97,13 @@
         <subset.iconset>Help Icons</subset.iconset>
         <subset.shader>Theme Shaders</subset.shader>
         <subset.music>System Music</subset.music>
-        <subset.logoset>System Logo Style</subset.logoset>
+        <subset.logoset>Logo Style</subset.logoset>
         <subset.thememusic>Theme Background Music</subset.thememusic>
-        <subset.vdelay>Video delay on gamelist</subset.vdelay>
+        <subset.vdelay>Gamelist Video Delay</subset.vdelay>
         <subset.slog>System Logo on Gamelists</subset.slog>
-        <subset.colorset>Theme Colour Scheme</subset.colorset>
+        <subset.colorset>Colour Scheme</subset.colorset>
         <subset.videoview>Gamelist Video Delay</subset.videoview>
-        <subset.sysvdelay>System view Video Delay</subset.sysvdelay>
+        <subset.sysvdelay>System Video Delay</subset.sysvdelay>
 <!-- System descriptions -->
         <psx>PlayStation (비공식적으로 PSX로 약칭)은 Sony Computer Entertainment에서 개발 및 판매하는 가정용 비디오 게임 콘솔입니다. 시리즈의 원래 콘솔은 10년 만에 1 억 대 이상을 출하 한 최초의 콘솔이었습니다.</psx>
         <threedo>3DO는 기업가이자 Electronic Arts 창립자 인 Trip Hawkins가 고안 한 홈 비디오 게임 콘솔로, 3DO는 회사 자체에서 제조 한 것이 아닙니다. Panasonic은 첫 번째 모델을 생산했으며 GoldStar와 Sanyo는 하드웨어의 추가 버전을 출시했습니다.</threedo>
@@ -277,5 +276,6 @@
 <!-- pending translation -->
 	<outrun>Outrun은 Sega가 1986년 9월에 출시한 아케이드 레이싱 비디오 게임입니다. 개선된 하드웨어와 그래픽, 비선형 게임 플레이 그리고 Hiroshi Kawaguchi가 작곡한 음악이 포함된 선택 가능한 사운드 트랙으로 유명합니다. 목표는 교통 체증을 피하고 5개 목적지 중 하나에 도달하는 것입니다.</outrun>
 	<gx4000>GX4000은 Amstrad에서 제조한 비디오 게임 콘솔입니다. 게임 콘솔 시장에 진출하기 위한 회사의 단기간 시도였습니다. 콘솔은 1990년 유럽에서 출시되었으며 당시 여전히 인기있는 CPC 기술을 기반으로한 업그레이드된 디자인 이었습니다.</gx4000>
+	<dukenukem>Duke Nukem은 주인공 Duke Nukem의 이름을 딴 비디오 게임 시리즈입니다. Apogee Software Ltd가 만든 메인 시리즈의 처음 두 게임은 2D 플랫폼이었으며 이후 게임은 1인칭 슈팅 게임과 3인칭 슈팅 게임이 혼합되었습니다.</dukenukem>
     </variables>
 </theme>
