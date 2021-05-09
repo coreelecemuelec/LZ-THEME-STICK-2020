@@ -27,14 +27,14 @@ github:			https://github.com/dm2912
          <activityColor>${cactivity}</activityColor>
          <hotkeyColor>${chotkey}</hotkeyColor>
       </controllerActivity>
-   <text name="clock">
+   <!--text name="clock">
       <color>777777FF</color>
       <fontSize>0.035</fontSize>
       <pos>0.90 0.94</pos>
       <size>0.09 0.058</size>
       <alignment>right</alignment>
       <verticalAlignment>center</verticalAlignment>
-    </text>
+    </text-->
    </view>
 
 <!-- menu configs -->
