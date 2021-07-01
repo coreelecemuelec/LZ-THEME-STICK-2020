@@ -282,5 +282,6 @@
 	<dukenukem>Duke Nukem은 주인공 Duke Nukem의 이름을 딴 비디오 게임 시리즈입니다. Apogee Software Ltd가 만든 메인 시리즈의 처음 두 게임은 2D 플랫폼이었으며 이후 게임은 1인칭 슈팅 게임과 3인칭 슈팅 게임이 혼합되었습니다.</dukenukem>
 	<supervision>영국에서 QuickShot Supervision으로도 알려진 Watara Supervision은 1992년에 Nintendo Game Boy의 저가 경쟁자로 소개된 흑백 휴대용 게임기입니다. 게이머들 사이에서 인기를 얻지 못한 후 후속 개발이 취소되었습니다.</supervision>
 	<freej2me>FreeJ2ME는 오래된 휴대폰 게임에 초점을 맞춘 간단한 J2ME (Java Platform Micro Edition) 에뮬레이터입니다. Libretro 및 Retroarch를 사용하여 Windows, 데스크톱 Linux 및 Raspberry Pi 3에서 실행되도록 설계되었습니다.</freej2me>
+	<megadrivemsu>MSU-MD는 Mega Everdrive Pro 카트리지 용 애드온 칩으로 풀 모션 비디오 및 CD 음질의 사운드를 포함하여 Megadrive 게임에 대한 많은 향상된 기능을 제공합니다. 하드웨어 및 에뮬레이터와 모두 호환됩니다.</megadrivemsu>
     </variables>
 </theme>
