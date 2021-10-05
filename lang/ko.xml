@@ -283,5 +283,7 @@
 	<supervision>영국에서 QuickShot Supervision으로도 알려진 Watara Supervision은 1992년에 Nintendo Game Boy의 저가 경쟁자로 소개된 흑백 휴대용 게임기입니다. 게이머들 사이에서 인기를 얻지 못한 후 후속 개발이 취소되었습니다.</supervision>
 	<freej2me>FreeJ2ME는 오래된 휴대폰 게임에 초점을 맞춘 간단한 J2ME (Java Platform Micro Edition) 에뮬레이터입니다. Libretro 및 Retroarch를 사용하여 Windows, 데스크톱 Linux 및 Raspberry Pi 3에서 실행되도록 설계되었습니다.</freej2me>
 	<megadrivemsu>MSU-MD는 Mega Everdrive Pro 카트리지 용 애드온 칩으로 풀 모션 비디오 및 CD 음질의 사운드를 포함하여 Megadrive 게임에 대한 많은 향상된 기능을 제공합니다. 하드웨어 및 에뮬레이터와 모두 호환됩니다.</megadrivemsu>
+	<gmloader>GameMaker(원래 Animo 이후 2011년까지 Game Maker)는 1999년 Mark Overmars가 만들고 2007년부터 YoYo Games에서 개발한 cross-platform 게임 엔진 시리즈 입니다.</gmloader>
+	<karaoke>가라오케는 보통 클럽과 바에서 제공되는 일종의 상호적인 오락으로, 사람들은 마이크를 사용하여 녹음된 음악을 따라 부릅니다. 그 음악은 유명한 대중가요의 악기 버전입니다. 가사는 일반적으로 움직이는 기호와 함께 비디오 화면에 표시됩니다.</karaoke>
     </variables>
 </theme>
