@@ -285,5 +285,9 @@
 	<megadrivemsu>MSU-MD는 Mega Everdrive Pro 카트리지 용 애드온 칩으로 풀 모션 비디오 및 CD 음질의 사운드를 포함하여 Megadrive 게임에 대한 많은 향상된 기능을 제공합니다. 하드웨어 및 에뮬레이터와 모두 호환됩니다.</megadrivemsu>
 	<gmloader>GameMaker(원래 Animo 이후 2011년까지 Game Maker)는 1999년 Mark Overmars가 만들고 2007년부터 YoYo Games에서 개발한 cross-platform 게임 엔진 시리즈 입니다.</gmloader>
 	<karaoke>가라오케는 보통 클럽과 바에서 제공되는 일종의 상호적인 오락으로, 사람들은 마이크를 사용하여 녹음된 음악을 따라 부릅니다. 그 음악은 유명한 대중가요의 악기 버전입니다. 가사는 일반적으로 움직이는 기호와 함께 비디오 화면에 표시됩니다.</karaoke>
+	<sgb>Super Game Boy는 Game Boy 카트리지를 Super Nintendo Entertainment System 콘솔에서 재생할 수 있게 해주는 주변 장치입니다. 1994년 6월에 출시된 이 제품은 미국에서 $59.99, 영국에서 £49.99에 판매되었습니다.</sgb>
+	<eighting>8ing으로 양식화된 Eighting Co., Ltd.는 일본의 비디오 게임 개발사이자 퍼블리셔입니다. 이전에는 Raizing으로 알려졌습니다. 슈팅 게임과 라이센스가 있는 격투 게임으로 유명합니다.</eighting>
+	<psikyo>Psikyo는 슛뎀업과 옷 벗는 마작 게임으로 유명한 일본 비디오 게임 개발자이자 유통사였습니다. Psikyo는 주로 아케이드 게임 개발사였으며 일부 게임을 가정용 콘솔로도 이식했습니다.</psikyo>
+	<cave>CAVE Interactive Co., Ltd.는 1994년 Toaplan의 전체 직원들이 파산후 설립한 일본 비디오 게임 회사입니다. 1995년부터 2013년까지 CAVE는 일본 시장에서 가장 많은 슛뎀업 개발사 중 하나였습니다.</cave>
     </variables>
 </theme>
