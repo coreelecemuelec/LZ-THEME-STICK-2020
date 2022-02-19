@@ -40,7 +40,6 @@ Crystal에는 기존의 타일뷰, 회전뷰 및 상세뷰를 포함하여 시�
 
 아케이드 유통사 및 플랫폼: Activision, Atari, Atlus, Capcom, CPS1, CPS2, CPS3, Daphne, Data East, Irem, Kaneko, Konami, Midway, Namco, Neo-Geo, Nintendo, SEGA, SNK, Taito, Toaplan, Eighting, Psikyo
 
-As well as 2 player, 4 player, never played, favourites etc etc and decade collections (1970s, 1980s, 1990s)
 2인용, 4인용, 실행안한 게임, 즐겨찾기 등 그리고 10년 콜렉션 (1970s, 1980s, 1990s)
 
 ![alt text](https://github.com/dm2912/Crystal/blob/master/screens/panel-gamelist.jpg?raw=true)
@@ -54,8 +53,7 @@ As well as 2 player, 4 player, never played, favourites etc etc and decade colle
 
 홈페이지 레이아웃 : 선택한 화면 비율에 따라 모두 조정되는 5가지 홈페이지 레이아웃 선택
 
-System Logo Style: A choice of logo styles for the homepage and gamelists, colour, mono, and also controller which works well with the horizontal layout
-시스템 로고 스타일 : 홈페이지 및 게임리스트, 색상, 모노 및 가로 레이아웃과 잘 작동하는 컨트롤러용 로고 스타일 선택
+시스템 로고 스타일 : 홈페이지 및 게임리스트, 색상, 모노 및 수평 레이아웃과 잘 작동하는 컨트롤러용 로고 스타일 선택
 
 배경 이미지 : 2가지 배경 화면 세트 선택
 
