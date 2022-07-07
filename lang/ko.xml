@@ -6,10 +6,11 @@
 		
     	<langue>ko</langue>
 
+
 <!-- FONTS -->
 
 <!-- menu fonts -->
-<font1m>NanumGothic.ttf</font1m>
+<font1m>NanumGothicLight.ttf</font1m>
 
 <!-- menu fonts -->
 <font2m>NanumGothicBold.ttf</font2m>
@@ -289,5 +290,6 @@
 	<eighting>8ing으로 양식화된 Eighting Co., Ltd.는 일본의 비디오 게임 개발사이자 퍼블리셔입니다. 이전에는 Raizing으로 알려졌습니다. 슈팅 게임과 라이센스가 있는 격투 게임으로 유명합니다.</eighting>
 	<psikyo>Psikyo는 슛뎀업과 옷 벗는 마작 게임으로 유명한 일본 비디오 게임 개발자이자 유통사였습니다. Psikyo는 주로 아케이드 게임 개발사였으며 일부 게임을 가정용 콘솔로도 이식했습니다.</psikyo>
 	<cave>CAVE Interactive Co., Ltd.는 1994년 Toaplan의 전체 직원들이 파산후 설립한 일본 비디오 게임 회사입니다. 1995년부터 2013년까지 CAVE는 일본 시장에서 가장 많은 슛뎀업 개발사 중 하나였습니다.</cave>
+	<cdi>CD-i 포맷은 1980년대 후반에 발표되었으며, 포맷과 호환되는 최초의 장치들은 1991년에 출시되었습니다. 필립스 CD-i의 주요 판매 포인트는 게임기 이상이며 멀티미디어 요구에 사용될 수 있다는 것이었습니다. CD-i는 상업적으로 실패했고 1998년에 단종되었습니다.</cdi>
     </variables>
 </theme>
