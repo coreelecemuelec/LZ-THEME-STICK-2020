@@ -77,7 +77,7 @@
     </image>
     <textlist name="gamelist">
       <pos>0.675 0.19</pos>
-      <size>0.30 0.810</size>
+      <size>0.30 0.770</size>
       <primaryColor>${cgamelisttext}</primaryColor>
       <selectedColor>${cselectedtext}</selectedColor>
       <selectorColor>${cselector}</selectorColor>
