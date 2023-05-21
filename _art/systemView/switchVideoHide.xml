@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<!-- Sytem VIDEO PREVIEW -->
+		<video name="videoPreview" extra="true">
+			<visible>false</visible>
+			
+		</video>
+		
+	</view>
+	
+</theme>

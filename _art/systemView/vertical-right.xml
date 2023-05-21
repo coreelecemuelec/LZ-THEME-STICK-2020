@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>7</formatVersion>
+
+
+	<view name="screen">
+		<controllerActivity name="controllerActivity">
+			<pos>0.0161 0.0107</pos>
+		</controllerActivity>
+		<text name="clock">
+			<pos>0.6724 0.9573</pos>
+		</text>
+	</view>
+	
+	<view name="system">
+		
+		<helpsystem name="help">
+			<pos>0.0161 0.9648</pos>
+		</helpsystem>
+		
+				
+		<text name="logoText">
+			<origin>0 0</origin>
+			<pos>0.5 0.5</pos>
+			<size>0.2214 0.8335</size>
+			<fontSize>0.05</fontSize>
+			<fontPath>${artPath}/font/Roboto-Medium.ttf</fontPath>
+			<alignment>center</alignment>
+			<forceUppercase>true</forceUppercase>
+			<color>${themeLightColor}</color>
+		</text>
+		
+		
+		<text name="systemInfo">
+			<origin>0 0</origin>
+			<pos>0.1214 0.832</pos>
+			<size>0.1365 0.0217</size>
+			<backgroundColor>00000000</backgroundColor>
+			<color>${themeDarkColor}</color>
+			<fontPath>${artPath}/font/Roboto-Bold.ttf</fontPath>
+			<fontSize>0.023</fontSize>
+			<alignment>left</alignment>
+			<zIndex>50</zIndex> <!-- Default -->
+		</text>
+
+		<image name="staticBackground" extra="true">
+			<origin>0 0</origin>
+			<pos>0 0</pos>
+			<size>1 1</size>
+			<path>${artPath}/systemView/bg-system-vert-right.png</path>
+			<zIndex>20</zIndex> <!-- Default 10 for extra -->
+		</image>
+
+	
+		
+	
+		<image name="logo">
+			<path>./../../${system.theme}/system-logo-gray-us.png</path>
+			<path>./../../${system.theme}/system-logo-gray-${langue}.png</path>
+		</image>
+		
+		<image name="bg-image" extra="false">
+			<origin>0 0</origin>
+			<pos>0.0151 0.0445</pos>
+			<size>0.9698 0.911</size>
+			<path>${artPath}/systemView/background-default.jpg</path>
+			<path>./../../${system.theme}/background.jpg</path>
+			<color>ffffffff</color>
+			<tile>false</tile> <!-- Repeat / Streach image -->
+			<zIndex>5</zIndex> <!-- Default 10 for extra -->
+		</image>
+		
+		
+		<image name="logo-color" extra="false">
+			<origin>0 0.5</origin> <!-- W Left / H Center -->
+			<pos>0.026 0.1587</pos>
+			<maxSize>0.375 0.1849</maxSize>
+			<path>${artPath}/system-logo.png</path>
+			<path>${artPath}/logos-color/${system.name}.png</path>
+			<path>./../../${system.theme}/system-logo-us.png</path>
+			<path>./../../${system.theme}/system-logo-${langue}.png</path>
+			<zIndex>15</zIndex>
+		</image>
+
+
+		<image name="avatar" extra="false">
+			<origin>0 0</origin> <!-- Left -->
+			<pos>0.298 0.0466</pos>
+			<maxSize>0.2969 0.9067</maxSize>
+			<path>./../../${system.theme}/avatar.png</path>
+			<zIndex>15</zIndex>
+		</image>
+		
+	
+		<image name="synopsys" extra="false">
+			<origin>0 0</origin> <!-- Left -->
+			<pos>0.2906 0.7048</pos>
+			<size>0.4344 0.2374</size>
+			<path>./../../${system.theme}/description-us.png</path>
+			<path>./../../${system.theme}/description-${langue}.png</path>
+			<zIndex>20</zIndex>
+		</image>
+	
+		<image name="info" extra="false">
+			<origin>0 0</origin> <!-- Left -->
+			<pos>0.0234 0.2658</pos>
+			<size>0.2469 0.6769</size>
+			<path>./../../${system.theme}/info-us.png</path>
+			<path>./../../${system.theme}/info-${langue}.png</path>
+			<zIndex>15</zIndex>
+		</image>
+		
+	
+		<image name="console" extra="false">
+			<origin>0.5 0.5</origin> <!-- center -->
+			<pos>0.1464 0.4909</pos>
+			<maxSize>0.2203 0.2591</maxSize>
+			<path>./../../${system.theme}/console-us.png</path>
+			<path>./../../${system.theme}/console-${langue}.png</path>
+			<zIndex>16</zIndex>
+		</image>
+		
+
+		<video name="videoPreview" extra="true">
+			<origin>0.5 0.5</origin>
+			<pos>0.2000 0.2650</pos>
+			<size>0.360 0.4722222222222222</size>
+			
+			<path>{random}</path>                 
+			<path>./../../_videos/${videoType}/${system.theme}.mp4</path>
+			<delay>2</delay>
+			<effect>bump</effect>
+			<zIndex>100</zIndex>      
+		</video>
+		
+	</view>
+	
+	<include>./../../${system.theme}/vertical-right.xml</include>
+	
+</theme>
