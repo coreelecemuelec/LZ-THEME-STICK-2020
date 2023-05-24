@@ -1,6 +1,7 @@
-패널뷰는 시스템 페이지와 게임 목록 모두에 대한 넷플릭스 스타일 인터페이스를 제공합니다. 시스템 페이지는 비디오를 지원하지만 비디오를 제공해야합니다 (위키 참조).
-패널뷰는 시스템 페이지와 게임 목록 모두에 대한 넷플릭스 스타일 인터페이스를 제공합니다. 시스템 페이지는 비디오를 지원하지만 비디오를 제공해야합니다 (위키 참조).
-패널뷰는 시스템 페이지와 게임 목록 모두에 대한 넷플릭스 스타일 인터페이스를 제공합니다. 시스템 페이지는 비디오를 지원하지만 비디오를 제공해야합니다 (위키 참조).
+ァンタジー（ファイナルファンタジー）、ファイナルファイト（ファイナルファイト）、キング・オブ・ファイターズ（kof）、スーパーマリオ（マリオ）、ロックマン（ロックマン）、メタルスラッグ（メタルスラッグ）、メトロイド（メトロイド） ）、モータルコンバット（モータルコンバット）、バイオハザード（レジデントビル）、ソニック・ザ・ヘッジホッグ（ソニック）、サイレントヒル（サイレントヒル）、ストリートファイター（ストリートファイター）、トゥームレイダー（トゥームレイダー）、ゼルダの伝説（ゼルダ）、クエイク（クエイク）、レトロアチーブメント (チーボス)、鉄拳 (tekken)、シンプソンズ (シンプソンズ)、ティーンエイジ ミュータント ニンジャ タートルズ (tmnt)、バトルトード (バトルトード)、ポケモン (ポケモン)、レゴ (レゴ)。サムライスピリッツ（サムライスピリッツ）、ダンスダンスレボリューション（ddr）、デュークニューケム（デュークニューケム）
+
+所属：アトラス（Atlus）、アクティビジョン（Activision）、アタリ（Atari）、カプコン（Capcom）、データイースト（Dataeast）、アイレム（Irem）、カネコ（金子）、コナミ（Konami）、ミッドウェイ（Midway） 、ナムコ（Namco）、任天堂（Nintendo）、セガ（Sega）、SNK（Snk）、タイトー（Taito）、トアプラン（Toaplan）、アクレイム（Acclaim）、コードマスターズ（Codemasters）、EA Sports（イースポーツ）、Eidos Interactive（アイドス）、エレクトロニック・アーツ（Ea）、GT インタラクティブ（Gt）、インフォグラム（Infogrames）、ルーカサーツ（Lucasarts）、オーシャン（オーシャン）、ロックスター（Rockstar）、アルティメット（Ultimate）
+
 
 ![psp](https://github.com/coreelecemuelec/es-theme-lzgames/assets/130667604/a9054dd6-78c7-43e0-ad69-190a1f87e6b2)
 
@@ -46,13 +47,10 @@ Crystal에는 기존의 타일뷰, 회전뷰 및 상세뷰를 포함하여 시�
 
 ## 콜렉션
 
-테마는 현재 아래의 동적 컬렉션에 사용할 수 있습니다 (괄호안은 테마 이름):
+ァンタジー（ファイナルファンタジー）、ファイナルファイト（ファイナルファイト）、キング・オブ・ファイターズ（kof）、スーパーマリオ（マリオ）、ロックマン（ロックマン）、メタルスラッグ（メタルスラッグ）、メトロイド（メトロイド） ）、モータルコンバット（モータルコンバット）、バイオハザード（レジデントビル）、ソニック・ザ・ヘッジホッグ（ソニック）、サイレントヒル（サイレントヒル）、ストリートファイター（ストリートファイター）、トゥームレイダー（トゥームレイダー）、ゼルダの伝説（ゼルダ）、クエイク（クエイク）、レトロアチーブメント (チーボス)、鉄拳 (tekken)、シンプソンズ (シンプソンズ)、ティーンエイジ ミュータント ニンジャ タートルズ (tmnt)、バトルトード (バトルトード)、ポケモン (ポケモン)、レゴ (レゴ)。サムライスピリッツ（サムライスピリッツ）、ダンスダンスレボリューション（ddr）、デュークニューケム（デュークニューケム）
 
-시리즈 게임: Art of Fighting (aof), Batman (batman), Castlevania (castlevania), Cavestory (cavestory), Crash Bandicoot (crash), Dragon Ball Z (dbz), Donkey Kong (donkeykong), Doom (doom), Double Dragon (doubledragon), Fatal Fury (fatalfury), Final Fantasy (finalfantasy), Final Fight (finalfight),  King of Fighters (kof), Super Mario (mario), Megaman (megaman), Metal Slug (metalslug), Metroid (metroid), Mortal Kombat (mortalkombat), Resident Evil (residentevil), Sonic the Hedgehog (sonic), Silent Hill (silenthill), Streetfighter (streetfighter), Tomb Raider (tombraider), Legend of Zelda (zelda), Quake (quake), Retroachievements (cheevos), Tekken (tekken), The Simpsons (simpsons), Teenage Mutant Ninja Turtles (tmnt), battletoads (battletoads), pokemon (pokemon), lego (lego). samurai shodown (samuraishodown), Dance Dance Revolution (ddr), Duke Nukem (dukenukem)
+所属：アトラス（Atlus）、アクティビジョン（Activision）、アタリ（Atari）、カプコン（Capcom）、データイースト（Dataeast）、アイレム（Irem）、カネコ（金子）、コナミ（Konami）、ミッドウェイ（Midway） 、ナムコ（Namco）、任天堂（Nintendo）、セガ（Sega）、SNK（Snk）、タイトー（Taito）、トアプラン（Toaplan）、アクレイム（Acclaim）、コードマスターズ（Codemasters）、EA Sports（イースポーツ）、Eidos Interactive（アイドス）、エレクトロニック・アーツ（Ea）、GT インタラクティブ（Gt）、インフォグラム（Infogrames）、ルーカサーツ（Lucasarts）、オーシャン（オーシャン）、ロックスター（Rockstar）、アルティメット（Ultimate）
 
-게임 유통사/개발사: Atlus (Atlus), Activision (Activision), Atari (Atari), Capcom (Capcom), Data East (Dataeast), Irem (Irem), Kaneko (Kaneko), Konami (Konami), Midway (Midway), Namco (Namco), Nintendo (Nintendo), Sega (Sega), SNK (Snk), Taito (Taito), Toaplan (Toaplan), Acclaim (Acclaim), Codemasters (Codemasters), EA Sports(Easports), Eidos Interactive (Eidos), Electronic Arts (Ea), GT Interactive (Gt), Infogrames (Infogrames), Lucasarts (Lucasarts), Ocean (Ocean), Rockstar (Rockstar), Ultimate (Ultimate)
-
-장르: screenscraper.fr에서 지원하는 모든 메인 장르 (하위 장르 없음)
 
 다양한 유통사 테마가 자동 컬렉션으로 동작함:
 
