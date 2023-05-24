@@ -1,14 +1,4 @@
-**이 테마는 EMUELEC 용이며 EmuElec에서 지원하는 시스템 용 그래픽 만 포함합니다.**
 
-## 이 테마는 어떠한 상업적 릴리스에도 포함되지 않습니다
-
-<a href="https://www.buymeacoffee.com/e0lSjnd" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-질문? https://github.com/dm2912/Crystal/wiki/FAQ
-
-스크린샷 https://github.com/dm2912/Crystal/wiki/Screenshots
-
-## 패널뷰
 
 패널뷰는 시스템 페이지와 게임 목록 모두에 대한 넷플릭스 스타일 인터페이스를 제공합니다. 시스템 페이지는 비디오를 지원하지만 비디오를 제공해야합니다 (위키 참조).
 
