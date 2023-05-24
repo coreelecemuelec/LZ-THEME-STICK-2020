@@ -34,7 +34,8 @@ Crystal에는 기존의 타일뷰, 회전뷰 및 상세뷰를 포함하여 시�
 
 다양한 유통사 테마가 자동 컬렉션으로 동작함:
 
-아케이드 유통사 및 플랫폼: Activision, Atari, Atlus, Capcom, CPS1, CPS2, CPS3, Daphne, Data East, Irem, Kaneko, Konami, Midway, Namco, Neo-Geo, Nintendo, SEGA, SNK, Taito, Toaplan, Eighting, Psikyo
+아케이드 유통사 및 플랫폼: Activision, Atari, Atlus, Capcom, CPS1, CPS2, CPS3, Daphne, Data East,![ps1](https://github.com/coreelecemuelec/es-theme-lzgames/assets/130667604/d33c5adf-2dc7-40b4-920b-c3a30ccec18d)
+ Irem, Kaneko, Konami, Midway, Namco, Neo-Geo, Nintendo, SEGA, SNK, Taito, Toaplan, Eighting, Psikyo
 
 2인용, 4인용, 실행안한 게임, 즐겨찾기 등 그리고 10년 콜렉션 (1970s, 1980s, 1990s)
 
