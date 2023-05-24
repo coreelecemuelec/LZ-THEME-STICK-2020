@@ -2,7 +2,8 @@
 
 패널뷰는 시스템 페이지와 게임 목록 모두에 대한 넷플릭스 스타일 인터페이스를 제공합니다. 시스템 페이지는 비디오를 지원하지만 비디오를 제공해야합니다 (위키 참조).
 
-![alt text](https://github.com/dm2912/Crystal/blob/master/screens/panel-system.jpg?raw=true)
+!![n64](https://github.com/coreelecemuelec/es-theme-lzgames/assets/130667604/12991af1-3f6e-4cee-926c-4a743d7f5e78)
+
 
 Crystal에는 기존의 타일뷰, 회전뷰 및 상세뷰를 포함하여 시스템 및 게임 리스트 모두에 대한 여러 다른 뷰가 있습니다
 
